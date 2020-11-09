@@ -1,0 +1,24 @@
+E:/c#/first program/bin/Debug/netcoreapp3.1/first program.exe
+E:/c#/first program/bin/Debug/netcoreapp3.1/first program.deps.json
+E:/c#/first program/bin/Debug/netcoreapp3.1/first program.runtimeconfig.json
+E:/c#/first program/bin/Debug/netcoreapp3.1/first program.runtimeconfig.dev.json
+E:/c#/first program/bin/Debug/netcoreapp3.1/first program.dll
+E:/c#/first program/bin/Debug/netcoreapp3.1/first program.pdb
+E:/c#/first program/obj/Debug/netcoreapp3.1/first program.csprojAssemblyReference.cache
+E:/c#/first program/obj/Debug/netcoreapp3.1/first program.AssemblyInfoInputs.cache
+E:/c#/first program/obj/Debug/netcoreapp3.1/first program.AssemblyInfo.cs
+E:/c#/first program/obj/Debug/netcoreapp3.1/first program.csproj.CoreCompileInputs.cache
+E:/c#/first program/obj/Debug/netcoreapp3.1/first program.dll
+E:/c#/first program/obj/Debug/netcoreapp3.1/first program.pdb
+E:/c#/first program/obj/Debug/netcoreapp3.1/first program.genruntimeconfig.cache
+/run/media/shalmon/New Volume/c#/first program/bin/Debug/netcoreapp3.1/first program
+/run/media/shalmon/New Volume/c#/first program/bin/Debug/netcoreapp3.1/first program.deps.json
+/run/media/shalmon/New Volume/c#/first program/bin/Debug/netcoreapp3.1/first program.runtimeconfig.json
+/run/media/shalmon/New Volume/c#/first program/bin/Debug/netcoreapp3.1/first program.runtimeconfig.dev.json
+/run/media/shalmon/New Volume/c#/first program/bin/Debug/netcoreapp3.1/first program.dll
+/run/media/shalmon/New Volume/c#/first program/bin/Debug/netcoreapp3.1/first program.pdb
+/run/media/shalmon/New Volume/c#/first program/obj/Debug/netcoreapp3.1/first program.csprojAssemblyReference.cache
+/run/media/shalmon/New Volume/c#/first program/obj/Debug/netcoreapp3.1/first program.AssemblyInfoInputs.cache
+/run/media/shalmon/New Volume/c#/first program/obj/Debug/netcoreapp3.1/first program.AssemblyInfo.cs
+/run/media/shalmon/New Volume/c#/first program/obj/Debug/netcoreapp3.1/first program.dll
+/run/media/shalmon/New Volume/c#/first program/obj/Debug/netcoreapp3.1/first program.pdb
